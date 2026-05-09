@@ -24,6 +24,10 @@
 
 
 
+Live Dashboard
+https://burnmonitor-production-6c79.up.railway.app
+
+
 # Lemon Burn Monitor
 
 A real-time token burn and staking dashboard for the **Lemon Chain Network**. Monitors 19 ERC-20 tokens across the chain, displaying live burn events, session burn totals, and lifetime supply-burned percentages — all wired to on-chain data via the Lemon Chain block explorer API.
